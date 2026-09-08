@@ -1,5 +1,5 @@
 <img
-  src = "/img/schweitzer_ss.jpg"
+  src = "./img/schweitzer_ss.jpg"
   height = "300px"
   width = "200px" >
 # David Wilcox, Earth Science Data Portfolio
